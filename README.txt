@@ -8,3 +8,4 @@ steps to download
 3.click the 3 dots
 
 4.then click download
+if your browsing signed out of a google account click on download all
